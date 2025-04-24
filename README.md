@@ -40,7 +40,7 @@ Si estás usando un IDE, simplemente importa el proyecto y ejecuta la clase prin
 
 # Ejecutar el juego:
 
-# Desde terminal:
+- Desde terminal:
 
 java -cp bin Main
 
