@@ -19,7 +19,7 @@ Validación de movimientos legales.
 
 # Instrucciones para Ejecutar el Juego
 
-# Requisitos previos:
+- Requisitos previos:
 
 Tener instalada una versión de Java 8 o superior.
 
