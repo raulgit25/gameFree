@@ -1,54 +1,31 @@
 # gameFree
 Free Project Juego libre ;)
 
-# Explicación del Proyecto
+# Juego: Adivina el Número entre 1 y 100 🎯
 
-Este proyecto consiste en una implementación del clásico juego de mesa Parchís (también conocido como Ludo) utilizando el lenguaje de programación Java. El objetivo principal del proyecto es recrear la lógica del juego,  permitiendo partidas entre varios jugadores (humanos o IA), gestionando las reglas, los turnos, los dados y los movimientos de fichas en un tablero simulado.
+Este programa consiste en un sencillo juego donde el usuario debe **adivinar un número secreto** generado aleatoriamente por la computadora. El número estará comprendido entre **1 y 100**.
 
-# El proyecto incluye:
+---
 
-Lógica completa del juego (movimientos, reglas de captura, seguro, entrada al hogar).
+## 🧠 ¿Cómo funciona?
 
-Interfaz gráfica básica (Swing o JavaFX, según implementación).
+1. **Generación del número secreto**:
+   - La computadora genera un número aleatorio entre 1 y 100 al inicio del juego.
 
-Soporte para hasta 4 jugadores.
+2. **Interacción del usuario**:
+   - El jugador introduce un número intentando adivinar el número secreto.
 
-Gestión de turnos automática.
+3. **Retroalimentación inmediata**:
+   - Si el número es **mayor** al número secreto, el programa responde: `"Más grande"`.
+   - Si el número es **menor** al número secreto, el programa responde: `"Más pequeño"`.
+   - Si el número es **igual**, el programa responde: `"¡Correcto! Has adivinado el número."`
 
-Validación de movimientos legales.
+## 🧪 Funcionalidades Clave
 
-# Instrucciones para Ejecutar el Juego
+- ✅ Comparación del número introducido con el número secreto.
+- ✅ Mensajes dinámicos según la respuesta del usuario.
 
-- Requisitos previos:
-
-Tener instalada una versión de Java 8 o superior.
-
-Un IDE como IntelliJ IDEA, Eclipse o NetBeans.
-
-Clonar el repositorio o descargar el proyecto:
-
-git clone https://github.com/raulgit25/parchis-java.git
-cd parchis-java
-
-# Compilar el proyecto:
-
-Si estás usando la terminal:
-
-javac -d bin src/*.java
-
-Si estás usando un IDE, simplemente importa el proyecto y ejecuta la clase principal.
-
-# Ejecutar el juego:
-
-- Desde terminal:
-
-java -cp bin Main
-
-Asegúrate de que Main.java es el archivo que contiene el public static void main(String[] args).
-
-¡A jugar!
-
-Una vez ejecutado, aparecerá la interfaz gráfica del juego. Sigue las instrucciones en pantalla para seleccionar jugadores y comenzar la partida.
+---
 
 # 🧑‍💻 Créditos
 
