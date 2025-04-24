@@ -27,7 +27,7 @@ Un IDE como IntelliJ IDEA, Eclipse o NetBeans.
 
 Clonar el repositorio o descargar el proyecto:
 
-git clone https://github.com/tu_usuario/parchis-java.git
+git clone https://github.com/raulgit25/parchis-java.git
 cd parchis-java
 
 # Compilar el proyecto:
