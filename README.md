@@ -32,4 +32,4 @@ Este programa consiste en un sencillo juego donde el usuario debe **adivinar un 
 Desarrollado por Raúl Hernández 😉
 
 # Enlace de descarga
-https://drive.google.com/file/d/12Kr6EEXeMVGbjJ1xrlsB6xaY2y9rZAae/view?usp=drive_link 
+https://drive.google.com/file/d/1djzIeAq-pLFN-wvPYtTC3tPyRVQ6fGAN/view?usp=sharing
