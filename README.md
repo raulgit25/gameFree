@@ -30,3 +30,6 @@ Este programa consiste en un sencillo juego donde el usuario debe **adivinar un 
 # 🧑‍💻 Créditos
 
 Desarrollado por Raúl Hernández 😉
+
+# Enlace de descarga
+https://drive.google.com/file/d/1djzIeAq-pLFN-wvPYtTC3tPyRVQ6fGAN/view?usp=sharing
