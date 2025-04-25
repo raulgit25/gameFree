@@ -3,7 +3,7 @@ Free Project Juego libre ;)
 
 # Juego: Adivina el Número entre 1 y 100 🎯
 
-Este programa consiste en un sencillo juego donde el usuario debe **adivinar un número secreto** generado aleatoriamente por la computadora. El número estará comprendido entre **1 y 100**.
+Este programa consiste en un sencillo juego donde el usuario debe **adivinar un número secreto** . El número estará comprendido entre **1 y 100**.
 
 ---
 
