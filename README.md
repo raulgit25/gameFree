@@ -66,7 +66,8 @@ El juego termina si:
 
 # Modelo Relacional de la Base de Datos
 Usuarios(id, nombrePersonaje, tipoPersonaje);
-Partidas(id, idUsuario, duracion, vidas, oroAcumulado, fechaPartida, resultado, idUsuarios);
+Partidas(id, idUsuario, duracion, vidas, oroAcumulado, fechaPartida, resultado, tipoPersonaje);
+Personajes(id, nombre, tipoPersonaje);
 La base de datos está pensada en que la relación que tiene es 1:N, porque un usuario puede tener muchas partidas.
 
 # Créditos 😉
