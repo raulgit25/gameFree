@@ -74,3 +74,4 @@ La base de datos está pensada en que la relación que tiene es 1:N, porque un u
 Diseño y desarrollo del juego: Raúl Hernández García
 
 # Enlace de descarga
+https://drive.google.com/file/d/1bA1pZBjtjth9Ot8b3hLkWNfIx9yR7sE6/view?usp=sharing
